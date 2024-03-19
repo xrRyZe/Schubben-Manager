@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./data",
+        "./bot_utility",
+        "./bot_loging"
+    ]
+}
